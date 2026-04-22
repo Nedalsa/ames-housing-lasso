@@ -133,6 +133,3 @@ jupyter notebook lasso_model.ipynb
 ## 👤 Author
 
 **Nidal Bassam Al-Saqqa**
-
-Master's Thesis — *A Proposed Statistical Model to Estimate The Real Value of Real Estates: A Practical Study in The City of Damascus*  
-رسالة مقدمة لنيل درجة الماجستير في الأساليب الكمية
