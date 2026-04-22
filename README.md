@@ -132,4 +132,4 @@ jupyter notebook lasso_model.ipynb
 
 ## 👤 Author
 
-**Nidal Bassam Al-Saqqa**
+**Nidal Al-Saqqa**
